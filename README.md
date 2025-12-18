@@ -39,6 +39,7 @@ I’m a passionate and motivated Computer Science student with a strong interest
 
 * 💼 LinkedIn:/in/showmickroyofficial/
 * 📧 Email: showmickroy410@gmail.com
+* 💼Resume: https://drive.google.com/file/d/1rJtIe9AOjaJ4dn0RxR8FKBifdQze_UlZ/view?usp=drivesdk
 
 ---
 
