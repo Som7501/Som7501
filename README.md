@@ -16,19 +16,10 @@ I’m a passionate and motivated Computer Science student with a strong interest
 
 ---
 
-###  Tech Stack
+##  Tech Stack
 
-## Frontend
-HTML5 · CSS3 · JavaScript (ES6+) · React · Redux
-
-## Backend
-Node.js · Express.js
-
-## Database
-MongoDB
-
-## Tools & Platforms
-Git · GitHub · VS Code · Postman · AWS
+### (React · Redux · JavaScript · Node.js · Express · MongoDB · Tailwindcss )
+### (HTML · CSS · Git · GitHub · Postman · AWS(basic))
 
 ---
 
