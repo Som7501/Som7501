@@ -18,8 +18,8 @@ I’m a passionate and motivated Computer Science student with a strong interest
 
 ##  Tech Stack
 
-### React · Redux · JavaScript · Node.js · Express · MongoDB · Tailwindcss 
-### HTML · CSS · Git · GitHub · Postman · AWS(basic)
+### React · Redux · JavaScript · Node.js · Express · MongoDB · Tailwindcss . HTML · CSS ·
+### Git · GitHub · Postman · Vercel . Render . Mongo Atlas . MS Office
 
 ---
 
