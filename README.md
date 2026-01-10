@@ -39,6 +39,7 @@ I’m a passionate and motivated Computer Science student with a strong interest
 * LinkedIn: [showmickroyofficial](https://www.linkedin.com/in/showmickroyofficial/)
 * Email: [royshowmickofficial@gmail.com](royshowmickofficial@gmail.com)
 * Resume: [Showmick_Roy_resume](https://drive.google.com/file/d/1rJtIe9AOjaJ4dn0RxR8FKBifdQze_UlZ/view?usp=drivesdk)
+* * Resume: [Showmick_Roy_portfolio_website](https://showmick-roy-portfolio.vercel.app/)
 
 ---
 
